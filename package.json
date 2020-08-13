@@ -1,0 +1,19 @@
+{
+  "name": "technical-docs-page",
+  "version": "1.0.0",
+  "description": "technical-documentation-page project for freeCodeCamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AChareun/technical-docs-page.git"
+  },
+  "author": "Alonso Chareun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AChareun/technical-docs-page/issues"
+  },
+  "homepage": "https://github.com/AChareun/technical-docs-page#readme"
+}
